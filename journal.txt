@@ -1,0 +1,3 @@
+Name: simran, Daily Goal: to read books
+Name: & C:/Users/Asus/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/Asus/Documents/GitHub/DS_AI_Internship/src/day6_files/journal_logger.py | Goal: & C:/Users/Asus/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/Asus/Documents/GitHub/DS_AI_Internship/src/day6_files/journal_logger.py
+Name: simran  | Goal: to write dairy
